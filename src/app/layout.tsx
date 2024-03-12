@@ -15,6 +15,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="es">
+      <head>
+        <link rel="icon" href="../app/icon.ico" sizes="any" />
+      </head>
       <body className={popinsFont.className}>{children}</body>
     </html>
   )
