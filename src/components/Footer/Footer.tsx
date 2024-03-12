@@ -33,7 +33,7 @@ export function Footer() {
             <div className="items-center justify-between md:flex">
                 <div className="my-3">
                     <Reveal>
-                        2023 Boras Bank. All Rights Reserved.
+                        2024 Boras Bank. All Rights Reserved.
                     </Reveal>
                 </div>
                 <div className="flex gap-5">
