@@ -11,7 +11,7 @@ export function Footer() {
                 <div>
                     <Image src="/assets/logo.png" width={200} height={40} alt="Logo Bank" />
                     <Reveal>
-                        <p className="mt-5 text-primaryDark max-w-[250px]">Una nueva forma de hacer pagos de forma sencilla</p>
+                        <p className="mt-5 text-primaryDark max-w-[250px]">A new way to make payments easily</p>
                     </Reveal>
                 </div>
                 {footerData.map(({ id, title, links }) => (
@@ -33,7 +33,7 @@ export function Footer() {
             <div className="items-center justify-between md:flex">
                 <div className="my-3">
                     <Reveal>
-                        2024 Boras Bank. All Rights Reserved.
+                        2024 James Bank. All Rights Reserved.
                     </Reveal>
                 </div>
                 <div className="flex gap-5">

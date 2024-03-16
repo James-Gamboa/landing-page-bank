@@ -14,27 +14,27 @@ export function FirstBlock() {
                 <div>
                     <Reveal>
                         <h1 className="text-5xl font-semibold">
-                            El nuevo
+                            The new
                             <span className="block degradedBlue bg-blueLight">
-                                banco digital
+                                digital bank
                             </span>
-                            para todos
+                            for all
                         </h1>
                     </Reveal>
                     <Reveal>
-                        <p className="max-w-md mt-10">Nuestro equipo de expertos utiliza una metodología
-                            para identificar las tarjetas de crédito que probablemente
-                            se ajusten a sus necesidades. Examinamos tasas
-                            porcentuales anuales, tarifas anuales.</p>
+                        <p className="max-w-md mt-10">Our team of experts uses a methodology
+                            to identify the credit cards that are most likely to
+                            fit your needs. We examine annual percentage
+                            annual percentage rates, annual fees.</p>
                     </Reveal>
                     <Reveal>
                         <div className="my-8">
-                            <Link href="#clients" className="px-4 py-3 rounded-md bg-blueRadial">Empieza ahora</Link>
+                            <Link href="#clients" className="px-4 py-3 rounded-md bg-blueRadial">Start now</Link>
                         </div>
                     </Reveal>
                 </div>
                 <MotionTransition className="flex items-center justify-center">
-                    <Image src="/assets/cards-block.png" alt="Card" width={450} height={450} className="h-auto w-72 md:w-full" />
+                    <Image src="/assets/cards.png" alt="Card" width={450} height={450} className="h-auto w-72 md:w-full" />
                 </MotionTransition>
             </div>
         </div>

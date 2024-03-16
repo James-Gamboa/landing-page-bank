@@ -14,15 +14,16 @@ export function ControlBilling() {
                 <div className="flex-1 p-6 md:p-8">
                     <Reveal>
                         <h2 className="text-5xl font-semibold">
-                            Controla fácilmente <br />
-                            tu facturación
+                            Easily control <br />
+                            your billing
                         </h2>
                     </Reveal>
                     <Reveal>
-                        <p className="max-w-md mt-10">Con la tarjeta de crédito adecuada, puede mejorar su vida
-                            financiera generando crédito, obteniendo recompensas y
-                            ahorrando dinero. Pero con cientos de tarjetas de crédito en
-                            el mercado.</p>
+                        <p className="max-w-md mt-10">With the right credit card, you can improve your financial life 
+                            by building credit, earning rewards and
+                            life by building credit, earning rewards and saving money.
+                            saving money. But with hundreds of credit cards on the
+                            on the market.</p>
                     </Reveal>
                 </div>
             </div>
